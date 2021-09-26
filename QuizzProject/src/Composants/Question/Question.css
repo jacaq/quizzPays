@@ -1,0 +1,11 @@
+label{
+    margin: 20px;
+    padding: 10px 15px;
+    background-color:deepskyblue;
+    border-radius: 50px 20px;
+    font-weight: bold;
+}
+
+.bouton{
+    margin: 10px;
+}
